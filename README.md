@@ -1,7 +1,7 @@
 Hi 👋 My name is AYUSH PANDEY
 =============================
 
-Programmer | ML Developer
+Backend Developer | Programmer | ML Developer
 -------------------------
 
 My passion for programming and expertise in implementing machine learning models would makes me an excellent addition to any team. I have excelled at designing and developing machine learning systems.
